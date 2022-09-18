@@ -10,11 +10,11 @@
     Etzoria ist ein kleines, sehr ambitioniertes Minecraft Projekt, welches sich zum Ziel gesetzt hat, auch in der heutigen Zeit noch ungesehenes Sichtbar zu machen.
     Wir wollen mit noch nie da gewesenenen Features überzeugen und ein neuartiges Erlebnis schaffen.
     <br />
-    <a target="_blank" href="https://discord.com/users/216487432667791360"><strong>Contact »</strong></a>
+    <a href="https://discord.com/users/216487432667791360" target="_blank"><strong>Contact »</strong></a>
     <br />
     <br />
-    <a target="_blank" href="https://discord.gg/WYUR4hqdwy">Discord</a>
+    <a href="https://discord.gg/WYUR4hqdwy" target="_blank">Discord</a>
     ·
-    <a target="_blank" href="https://eztoria.eu">Website</a>
+    <a href="https://eztoria.eu" target="_blank">Website</a>
   </p>
 </div>
